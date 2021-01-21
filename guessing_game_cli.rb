@@ -7,3 +7,5 @@ if guess == "exit"
   puts "Goodbye!"
   break
 end
+end
+end
