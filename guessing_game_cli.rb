@@ -6,5 +6,3 @@ computer_number = rand(1..6)
 if guess == "exit"
   puts "Goodbye!"
   break
-end
-end
