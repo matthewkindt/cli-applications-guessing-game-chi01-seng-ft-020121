@@ -4,3 +4,4 @@ end
 if guess == "exit"
   puts "Goodbye!"
 end
+end
